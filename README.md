@@ -47,7 +47,7 @@ Web Stack / Requirements
 * Clone the repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Rohit2407/Boothintel.git
 ```
 
 ---
